@@ -1,2 +1,2 @@
 # SugarLabsTask
-SugarLabsTask
+My First Repository
